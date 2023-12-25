@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexer","timestamp":1703490602405,"sparkVersion":"3.3.1","uid":"StringIndexer_3772c717e24e","paramMap":{"outputCol":"ExterQual_indexed","inputCol":"ExterQual","handleInvalid":"skip"},"defaultParamMap":{"outputCol":"StringIndexer_3772c717e24e__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}

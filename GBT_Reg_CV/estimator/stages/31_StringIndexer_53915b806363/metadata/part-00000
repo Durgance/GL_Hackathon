@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexer","timestamp":1703490603804,"sparkVersion":"3.3.1","uid":"StringIndexer_53915b806363","paramMap":{"inputCol":"PavedDrive","outputCol":"PavedDrive_indexed","handleInvalid":"skip"},"defaultParamMap":{"outputCol":"StringIndexer_53915b806363__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}

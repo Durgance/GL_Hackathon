@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1703490606943,"sparkVersion":"3.3.1","uid":"StringIndexer_5416d690852f","paramMap":{"outputCol":"LandSlope_indexed","handleInvalid":"skip","inputCol":"LandSlope"},"defaultParamMap":{"outputCol":"StringIndexer_5416d690852f__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexer","timestamp":1703490603012,"sparkVersion":"3.3.1","uid":"StringIndexer_192bdcc94e63","paramMap":{"outputCol":"HeatingQC_indexed","inputCol":"HeatingQC","handleInvalid":"skip"},"defaultParamMap":{"outputCol":"StringIndexer_192bdcc94e63__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}
